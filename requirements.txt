@@ -1,0 +1,8 @@
+Github Repo URL: https://github.com/mehmetgunes/revan-ai-tarim/blob/master/app.py
+
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+scipy
