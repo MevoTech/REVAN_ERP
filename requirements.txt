@@ -4,4 +4,4 @@ numpy<2.0.0
 scikit-learn
 scipy
 plotly
-```eof
+
