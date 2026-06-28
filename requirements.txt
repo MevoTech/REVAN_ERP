@@ -1,8 +1,18 @@
-Github Repo URL: https://github.com/mehmetgunes/revan-ai-tarim/blob/master/app.py
-
 streamlit
 pandas
-numpy
-plotly
+numpy<2.0.0
 scikit-learn
 scipy
+plotly
+```eof
+
+5. Sağ üstteki yeşil **"Commit changes..."** butonuna basıp kaydet.
+
+**2. Streamlit'i Yeniden Başlat:**
+1. Hata aldığın Streamlit ekranına geri dön.
+2. Sağ alttaki **"Manage App"** (Uygulamayı Yönet) yazısına tıkla.
+3. Ekranın sağ tarafında açılan siyah terminal (konsol) penceresinin sağ üst köşesinde **Üç Nokta (...)** veya **Ayarlar** ikonu vardır, oradan **"Reboot app"** (Uygulamayı Yeniden Başlat) seçeneğine tıkla.
+
+*(Eğer Reboot bulamazsan, paneline dönüp o hatalı uygulamayı silip aynı linkle az önceki gibi sıfırdan tekrar "Deploy" diyebilirsin).*
+
+Sistem bu yeni, sadeleştirilmiş `requirements.txt` dosyasını gördüğünde hiçbir versiyon kavgası yaşamadan kütüphaneleri kuracak ve siten direkt açılacaktır. Sonucu bekliyorum!
